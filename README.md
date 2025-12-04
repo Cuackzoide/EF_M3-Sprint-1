@@ -16,9 +16,9 @@
 
 [x] La página debe tener un título principal, como "Buscador de Recetas".
 
-[x] Debe existir un formulario que contenga un campo de texto (<input>) con un placeholder descriptivo (ej: "Busca por ingrediente...").
+[x] Debe existir un formulario que contenga un campo de texto `<input>` con un placeholder descriptivo (ej: "Busca por ingrediente...").
 
-[x] El formulario debe incluir un botón (<button>) con un texto claro (ej: "Buscar").
+[x] El formulario debe incluir un botón `<button>` con un texto claro (ej: "Buscar").
 
 [x] Los elementos deben estar estilizados usando clases de Bootstrap para form y button.
 
@@ -40,11 +40,11 @@
 
 [x] Cada tarjeta debe incluir obligatoriamente:
 
-- Una imagen (<img class="card-img-top">).
+- Una imagen `<img class="card-img-top">`.
 
-- Un título (<h5 class="card-title">).
+- Un título `<h5 class="card-title">`.
 
-- Un botón o enlace (<a href="#" class="btn btn-primary">).
+- Un botón o enlace `<a href="#" class="btn btn-primary">`.
 
 #### HU-03: Experiencia en Dispositivos Móviles
 
@@ -62,7 +62,7 @@
 
 [x] En pantallas pequeñas (móviles), las tarjetas deben apilarse verticalmente (1 columna).
 
-[x] El sistema de grillas de Bootstrap (row, col-lg-4, col-md-6, etc.) debe ser utilizado para lograr la responsividad.
+[x] El sistema de grillas de Bootstrap `row, col-lg-4, col-md-6` debe ser utilizado para lograr la responsividad.
 
 ### Requisitos Técnicos y Entregables
 

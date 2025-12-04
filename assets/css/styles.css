@@ -1,0 +1,11 @@
+.hero {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.6),
+      rgba(255, 255, 255, 0.8)
+    ),
+    url(../img/tarjetas_de_recetas_vintage.jpg);
+}
+.img-fit {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
